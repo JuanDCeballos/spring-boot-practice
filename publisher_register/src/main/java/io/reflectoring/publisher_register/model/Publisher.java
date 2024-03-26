@@ -16,7 +16,7 @@ import lombok.ToString;
 public class Publisher {
 
     @Id
-    private String Id;
+    private String id;
     private String name;
     private String email;
     private Integer published;
